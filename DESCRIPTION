@@ -4,9 +4,7 @@ Version: 0.1
 Authors@R: 
     person("Eli", "Johnson", , "ebj800@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: A simple package that has a variety of basic functions for 
-converting various measurements into other counterparts. For examle converting 
-Fahrenheit to Celsius or Pounds to Kilograms.
+Description: A simple package that has a variety of basic functions for converting various measurements into other counterparts. For examle converting Fahrenheit to Celsius or Pounds to Kilograms.
 License: use_mit_license()
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
