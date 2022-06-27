@@ -1,6 +1,6 @@
 #' Convert Celsius to Kelvin
 #'
-#' @parem temp_C A number. Do not use special characters or symbols.
+#' @param temp_C A number. Do not use special characters or symbols.
 #' @return A temperature in degrees Kelvin as a function of that temperature in
 #' degrees Celsius
 #' @examples

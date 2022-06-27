@@ -1,6 +1,6 @@
 #' Convert Fahrenheit to Celsius
 #'
-#' @parem temp_F A number. Do not use special characters or symbols.
+#' @param temp_F A number. Do not use special characters or symbols.
 #' @return A temperature in degrees Celsius as a function of that temperature in
 #' degrees Fahrenheit
 #' @examples

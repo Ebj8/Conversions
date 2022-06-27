@@ -1,6 +1,6 @@
 #' Convert Fahrenheit to Kelvin
 #'
-#' @parem temp_F A number. Do not use special characters or symbols.
+#' @param temp_F A number. Do not use special characters or symbols.
 #' @return A temperature in degrees Kelvin as a function of that temperature in
 #' degrees Fahrenheit
 #' @examples
