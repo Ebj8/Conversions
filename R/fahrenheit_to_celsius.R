@@ -12,7 +12,11 @@ fahrenheit_to_celsius <- function(temp_F) {
     stop("No input provided... how did you expect me to convert nothing to
        celsius? \nWho are your parents? I'm going to let them know how much of a
        dissapointment you are.")
-  } else {
+  }else if (typeof(temp_F) == "character"){
+    stop(paste0("Did you fail kindergarden?
+                \nHow am I supposed to convert ", temp_C, " into kelvin.
+                Just type a regular number like a competent human being."))
+    } else {
     temp_C <- (temp_F - 32) * 5/9
     return(temp_C)
   }
