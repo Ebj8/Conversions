@@ -6,6 +6,9 @@
 \usage{
 fahrenheit_to_celsius(temp_F)
 }
+\arguments{
+\item{temp_F}{A number. Do not use special characters or symbols.}
+}
 \value{
 A temperature in degrees Celsius as a function of that temperature in
 degrees Fahrenheit
